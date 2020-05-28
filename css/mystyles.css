@@ -2,5 +2,9 @@ body{
     font-family: monospace;
     background-color: black;
     color: chartreuse;
-    padding-left: 100px;
+    padding-left: 200px;
+    padding-top: 200px;
+}
+body>header>h1>a{
+    color: hotpink;
 }
