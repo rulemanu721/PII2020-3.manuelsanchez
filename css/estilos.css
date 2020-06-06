@@ -1,0 +1,43 @@
+.principal{
+    background-color: rgb(148, 143, 143);
+    color: black;
+ 
+	width: 100%;	
+	
+	border: 5px;
+	border-color: black;
+	border-style: solid;
+    display: flex;
+   
+    position: fixed;
+    
+ 
+    
+}
+
+.principal section{
+    font-size: 10px;
+    width: 16.6%;
+
+}
+
+.producto{
+   
+    text-align: center;
+    padding: 28px;
+    justify-items: right;
+
+}
+
+.izquierdo{
+    
+    width: 30%;
+    
+}
+
+.derecho{
+    
+    width: 70%;
+    
+}
+
